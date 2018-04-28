@@ -1,6 +1,8 @@
 using System;
 using Xunit;
 
+using GrowRecipe;
+
 namespace GrowRecipe.Tests
 {
     public class ClientTests
